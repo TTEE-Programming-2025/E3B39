@@ -9,4 +9,8 @@ int main() {
     scanf("%s", input); 
 	if (strcmp(input, PASSWORD) == 0) {
         printf("密碼正確，歡迎進入！\n");
+    }else {
+        printf("密碼錯誤，程式結束！\n");
+        return 0; 
     }
+    } 
