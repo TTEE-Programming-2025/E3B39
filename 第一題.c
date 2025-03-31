@@ -14,11 +14,11 @@ int main() {
     printf("9     `-........-'       \n");
     printf("10                       \n");
     printf("11                       \n");
-    printf("12                       \n");
+    printf("12      ( o.o )          \n");
     printf("13                       \n");
-    printf("14                       \n");
+    printf("14      ( owo )          \n");
     printf("15                       \n");
-    printf("16                       \n");
+    printf("16      ( ^_^ )          \n");
     printf("17                       \n");
     printf("18                       \n");
     printf("********************************************\n");
