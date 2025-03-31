@@ -13,4 +13,5 @@ int main() {
         printf("±K½X¿ù»~¡Aµ{¦¡µ²§ô¡I\n");
         return 0; 
     }
+    return 0;
     } 
